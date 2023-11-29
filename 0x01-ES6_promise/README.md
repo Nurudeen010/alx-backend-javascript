@@ -1,1 +1,2 @@
-# This is the basic of call back function in javascript
+Another wonderful topic in ES6
+Enjoy a promising future
