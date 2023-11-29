@@ -1,4 +1,4 @@
-export default function signUpUser(firstName, lastName) {
+export default function signUpUser (firstName, lastName) {
   return Promise.resolve(
     {
       firstName,
@@ -6,4 +6,3 @@ export default function signUpUser(firstName, lastName) {
     }
   );
 }
-
