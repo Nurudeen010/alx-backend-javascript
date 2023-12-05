@@ -1,0 +1,1 @@
+# A perfect way to deal with data through arrays in javascript
