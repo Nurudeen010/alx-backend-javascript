@@ -1,0 +1,1 @@
+# A wonderful way to write typescript
